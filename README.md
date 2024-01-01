@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+## 🔒 아직은 서툰 사이버보안학과 대학생입니다~
+
+### 현재 업로드 상황
+- 자바 스터디 [Power 자바]
+- GitHub 연습 [팀 개발을 위한 Git, GitHub 시작하기]
+
 <!--
 **borichayam/borichayam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
